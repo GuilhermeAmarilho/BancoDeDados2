@@ -11,9 +11,11 @@
 ## Atividades
 - Projetos e atividades realizadas durante o 3º semestre de Ciências da Computação.
 
-#### Listas Encadeadas:
-- [Atividade Lista encadeada simples](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2003%20-%20Lista%20ordenada%20e%20encadeada/listaOrdenada.c)
-- [Atividade Lista encadeada dupla](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2004%20-%20Listas%20duplamente%20encadeada%20e%20circular/ListaEncadeadaDupla.c)
+#### Indexação e Hashing: 
+- [Conteúdo](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2001%20-%20Indexacao%20e%20Hashing/IndexacaoHashing.ppt)
+- [Conteúdo complementar 1](https://github.com/GuilhermeAmarilho/BancoDeDados2/tree/master/Aula%2002%20-%20Indexacao%20e%20Hashing%201)
+- [Business Inteligence](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2002%20-%20Indexacao%20e%20Hashing%202/BusinessIntelligence_-_BI_Data_Webhouse.ppt)
+- [Conteúdo complementar 1](https://github.com/GuilhermeAmarilho/BancoDeDados2/tree/master/Aula%2002%20-%20Indexacao%20e%20Hashing%202)
 
 #### Filas
 - [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/filas.pdf)
