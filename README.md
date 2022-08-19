@@ -17,32 +17,29 @@
 - [Business Inteligence](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2002%20-%20Indexacao%20e%20Hashing%202/BusinessIntelligence_-_BI_Data_Webhouse.ppt)
 - [Conteúdo complementar 1](https://github.com/GuilhermeAmarilho/BancoDeDados2/tree/master/Aula%2002%20-%20Indexacao%20e%20Hashing%202)
 
-#### Filas
-- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/filas.pdf)
-- [Fila Simples](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/fila.c)
-- [Fila com Prioridade](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2005%20-%20Filas%20teoria%20e%20pr%C3%A1tica/fila.c)
+#### Tecnologias em banco de dados
+- [Banco de dados distribuidos](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2003%20-%20Tecnologias%20em%20banco%20de%20dados/bdd.ppt)
+- [NoSQL x SGBDs Relacionais](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2003%20-%20Tecnologias%20em%20banco%20de%20dados/SQL_X_NoSQL.pdf)
 
-#### Pilhas
-- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2006%20-%20Pilhas%20teoria%20e%20pr%C3%A1tica/pilha.pdf)
-- [Exercício](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2006%20-%20Pilhas%20teoria%20e%20pr%C3%A1tica/pilha.c)
-- [Exercício](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2006%20-%20Pilhas%20teoria%20e%20pr%C3%A1tica/exercicio1.c)
+#### Proucessamento de consultas e otimização
+- [Conteúdo](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2005%20-%20Tecnologias%20em%20Banco%20de%20Dados%20-%20BDOO/ProcessamentoConsultasOtimizacao2021_-_Resumido.pdf)
 
-#### Busca Linear & Busca Binária 
-- [Atividade Seminário - Busca Linear e Busca Binaria](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/main/Aula%2008%20-%20Semin%C3%A1rios/Apresenta%C3%A7%C3%A3o%20BuscaLinear%20e%20BuscaBin%C3%A1ria.pdf)
-- [Busca Linear - Código](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2008%20-%20Semin%C3%A1rios/Busca_Linear.c)
-- [Busca Binária - Código](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2008%20-%20Semin%C3%A1rios/Busca_Binaria.c)
+#### Seminário - Indexação e Hashing
+- [Seminário - Indexação](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2006%20-%20Seminarios/indexa%C3%A7%C3%A3o_V2.pdf)
+- [Código - Arvore B+](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2006%20-%20Seminarios/ArvoreB%2B/main.c)
+- [Código - Arvore Binária](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2006%20-%20Seminarios/ArvoreBinaria/ArvoreBinaria.c)
 
-#### QuickSort
-- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2009%20-%20QuickSort/Quicksort.pdf)
-- [Exercício](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2009%20-%20QuickSort/QuickSort.c)
+#### Transações e Controle de Concorrência
+- [Controle de transações](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2007%20-%20Transa%C3%A7%C3%B5es%20%20Controle%20de%20Concorr%C3%AAncia/Controle_de_TransacoesBDeSistemas2022.pptx)
+- [ACID](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2007%20-%20Transa%C3%A7%C3%B5es%20%20Controle%20de%20Concorr%C3%AAncia/ACID.pdf)
+- [Exercício - ACID](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2007%20-%20Transa%C3%A7%C3%B5es%20%20Controle%20de%20Concorr%C3%AAncia/exercicio.sql)
 
-#### Hashing
-- [Conteúdo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/Tabela%20Hash.pdf)
-- [Hash - vetor](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/hash_em_vetor.c)
-- [Hash - String](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/hash_string.c)
-- [Hash - Lista Encadeada](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2007%20-%20Tabela%20de%20espalhamento%20(hashing)/hash_em_lista_encadeada.c)
 
-### Projeto Final
-- [Problema Proposto](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/Problema%20Trabalho%20Final%20ED.pdf)
-- [Descritivo](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/README.md)
-- [Código](https://github.com/GuilhermeAmarilho/EstruturaDeDados1/blob/master/Aula%2010%20-%20ProjetoFinal/main.c)
+#### Data Mining
+- [Conteúdo](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2008%20-%20Data%20Mining%20-%20Elabora%C3%A7%C3%A3o%20Trabalho%203/DataMining.ppt)
+- [Artigo - Técnica de mineração de dados](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2008%20-%20Data%20Mining%20-%20Elabora%C3%A7%C3%A3o%20Trabalho%203/Artigo_Data_Mining_1.pdf)
+
+### Sistemas de recuperação
+- [Segurança em banco de dados](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2010%20-%20Sistema%20de%20Recupera%C3%A7%C3%A3o/SegurancaBD.ppt)
+- [Sistema de recuperação](https://github.com/GuilhermeAmarilho/BancoDeDados2/blob/master/Aula%2010%20-%20Sistema%20de%20Recupera%C3%A7%C3%A3o/Sistema_de_Recuperao.pptx)
+
